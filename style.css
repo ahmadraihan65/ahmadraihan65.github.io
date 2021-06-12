@@ -1,4 +1,9 @@
 .jumbotron {
-  padding: 6rem;
+  padding-top: 6rem;
+  padding-bottom: 3rem;
   background-color: #cff1f7;
 }
+#abc {
+  padding-bottom: 3rem;
+}
+
